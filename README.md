@@ -62,6 +62,10 @@ Voila! You have successfully created a Flask web application running on an azure
 
 Congratulations!
 
+### Demo Video
+
+[![Watch the tutorial video](/images/CreateAzureWebAppPortal_Title.jpg)](https://youtu.be/0C3rpWVaVWo "Video Tutorial - Create an Azure Web App with the Azure Portal")
+
 ## Create an Azure Web App with the CLI (Command Line Interface)
 
 Open a BASH terminal window in the root directory of your project.
@@ -78,6 +82,10 @@ az webapp up \
  --verbose
 ```
 The azure command and process may take a few minutes to validate your resource names, create, and then deploy your web app. After it is complete, the command window will show the body of the json response. You will see a url to access your web app in the json response. 
+
+### Demo Video
+
+[![Watch the tutorial video](/images/CreateAzureWebAppCLI_Title.jpg)](https://youtu.be/qILUM6DyruM "Video Tutorial - Create an Azure Web App with the CLI (Command Line Interface)")
 
 ## Cleanup
 
