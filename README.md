@@ -1,8 +1,8 @@
 # Azure App Service Web App Demo Project
 
-This tutorial azure cloud project demonstrates how to create and deploy a basic web app using azure portal or the CLI (command line interface). We will use our azure account to creature a resource group, app service plan, and a web app. Then we will configure a CI/CD pipeline (continuous integration/continuous deployment) that integregates with our GitHub project code repository. Our demo web app is a flask template and python web application.
- 
-Watch the video tutorials and follow step-by-step instructions to learn how to create your own starter web app running on azure cloud using the azure portal. A second bonus video and instructions are shown that demonstrate quick start creation of a web app using the CLI (command line interface).  
+This tutorial azure cloud project demonstrates how to create and deploy a basic web app using the azure portal or the CLI (command-line interface). We will use our azure account to creature a resource group, app service plan, and web app. Then we will configure a CI/CD pipeline (continuous integration/continuous deployment) that integrates with our GitHub project code repository. Our demo web app is a flask template and python web application.
+
+Watch the video tutorials and follow step-by-step instructions to learn how to create your own starter web app running on the Azure cloud using the Azure portal. A second bonus video and instructions are shown that demonstrate the quick start creation of a web app using the CLI (command-line interface). 
 
 ## Create an Azure Web App with the Azure Portal
 
