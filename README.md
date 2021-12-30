@@ -8,7 +8,7 @@ Watch the video tutorials and follow step-by-step instructions to learn how to c
 
 ### Create Azure Resource Group
 
-Login into your Azure account and create a resource group for this project. In this tutorial we will be using the resource group name `resource-group-web-app-demo` .
+Login to your Azure account and create a resource group for this project. In this tutorial we will be using the resource group name `resource-group-web-app-demo` .
 
 ### Create Web App Resource
 
