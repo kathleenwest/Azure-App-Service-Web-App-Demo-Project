@@ -85,7 +85,7 @@ The azure command and process may take a few minutes to validate your resource n
 
 ### Demo Video
 
-[![Watch the tutorial video](/images/CreateAzureWebAppCLI_Title.jpg)](https://youtu.be/qILUM6DyruM "Video Tutorial - Create an Azure Web App with the CLI (Command Line Interface)")
+[![Watch the tutorial video](/images/CreateAzureWebAppCLI_Title.jpg)](https://www.youtube.com/watch?v=CMuiX8BvSYA "Video Tutorial - Create an Azure Web App with the CLI (Command Line Interface)")
 
 ## Cleanup
 
