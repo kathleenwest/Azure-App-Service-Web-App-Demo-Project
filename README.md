@@ -64,7 +64,7 @@ Congratulations!
 
 ### Demo Video
 
-[![Watch the tutorial video](/images/CreateAzureWebAppPortal_Title.jpg)](https://youtu.be/0C3rpWVaVWo "Video Tutorial - Create an Azure Web App with the Azure Portal")
+[![Watch the tutorial video](/images/CreateAzureWebAppPortal_Title.jpg)](https://www.youtube.com/watch?v=iRArGlbXetA&feature=youtu.be "Video Tutorial - Create an Azure Web App with the Azure Portal")
 
 ## Create an Azure Web App with the CLI (Command Line Interface)
 
