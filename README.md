@@ -94,3 +94,7 @@ Don't forget to stop your azure web app after you are done playing with your pro
 You can do this either using the azure portal or cli with this command:
 
 `az group delete -n resource-group-web-app-demo`
+
+## Issues
+
+This project is over four years old and no longer being actively maintained. An issue was [reported] (https://github.com/kathleenwest/Azure-App-Service-Web-App-Demo-Project/issues/1#issue-2792225110) that the version of Python mentioned no longer works with the Azure App and Flask. Please try to utilize the latest version of Python and Flask in the requirements. Currently, the author does not have an active Azure subscription but may do so in the future to troubleshoot and upgrade this code. The video recording utilizes Python 3.7. The step-by-step instructions should still be useful for deploying a web app to Azure.
